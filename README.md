@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! :wave: Glad to have you here. Make yourself at home and grab some coffee! :coffee:
 
 <!--
 **MahatKC/MahatKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
