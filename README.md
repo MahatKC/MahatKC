@@ -2,7 +2,7 @@
 
 I'm Mateus Karvat, Computer Scientist from Cascavel-PR in the south of Brazil. I graduated from [UNIOESTE](https://www.unioeste.br/portal/) in 2022.
 
-
+I love learning new things and consider myself to be a [multipotentialite](https://puttylike.com/terminology/). For hobbies, I love games :video_game:, TV Shows (Trekkie :vulcan_salute:) and Formula 1 :racing_car:.
 
 <!--
 **MahatKC/MahatKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
