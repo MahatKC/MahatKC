@@ -1,4 +1,8 @@
-### Hello! :wave: Glad to have you here. Make yourself at home and grab some coffee! :coffee:
+### Hello! :wave: Glad to have you here. Make yourself comfortable and grab some coffee! :coffee:
+
+I'm Mateus Karvat, Computer Scientist from Cascavel-PR in the south of Brazil. I graduated from [UNIOESTE](https://www.unioeste.br/portal/) in 2022.
+
+
 
 <!--
 **MahatKC/MahatKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
