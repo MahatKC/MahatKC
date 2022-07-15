@@ -14,7 +14,7 @@
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
-|             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  | :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:              |     2022     |
+|             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  | :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle: &nbsp;&nbsp;&nbsp;              |     2022     |
 |               [MemARy](https://github.com/MahatKC/MemARy)              |            Augmented Reality class               |Unity, C#, Vuforia|       :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:         |    2020      |
 |     [NLWTogetherFlutterProject](https://github.com/MahatKC/NLWTogetherFlutterProject)     |          Online bootcamp                 |           |     :large_blue_circle: :black_circle: :black_circle: :black_circle: :black_circle:          |     2021     |
 |        [MicroplasticCounting](https://github.com/MahatKC/MicroplasticCounting)       |     Research project                      |           |     :large_blue_circle: :green_circle: :yellow_circle:  :black_circle: :black_circle:         |      2021    |
