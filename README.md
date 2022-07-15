@@ -38,4 +38,4 @@
 |            oscarTracker           |                           |           |                |     2021     |
 |        CompiladohDuMineirin       |                           |           |                |    2022      |
 |            LeafCounter            |                           |           |                |   2020       |
-|             Project-F1            |                           |           |                |    2021      |
+|             Project-F1            |                           |           |    :large_blue_circle: :large_blue_circle: :large_blue_circle: :black_circle: :black_circle:            |    2021      |
