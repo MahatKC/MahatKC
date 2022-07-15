@@ -14,15 +14,15 @@
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
-|             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  |  :white_circle: :white_circle: :white_circle: :red_circle: :red_circle:              |     2022     |
-|               MemARy              |            Augmented Reality class               |Unity, C#, Vuforia|                |    2020      |
-|     NLWTogetherFlutterProject     |                           |           |                |     2021     |
-|        MicroplasticCounting       |                           |           |                |      2021    |
+|             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  | :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:              |     2022     |
+|               MemARy              |            Augmented Reality class               |Unity, C#, Vuforia|       :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:         |    2020      |
+|     NLWTogetherFlutterProject     |                           |           |     :large_blue_circle: :black_circle: :black_circle: :black_circle: :black_circle:          |     2021     |
+|        MicroplasticCounting       |                           |           |     :large_blue_circle: :green_circle: :yellow_circle:  :black_circle: :black_circle:         |      2021    |
 |    SuperGeneticAlgorithmsWorld    |                           |           |                |      2021    |
 |       GalaxiesNeuralNetwork       |                           |           |                |      2021    |
 |       expertsystemassignment      |                           |           |                |     2021     |
 | Trabalho-IA---Algoritmos-de-Busca |                           |           |                |      2021    |
-|            3DPolygoneer           |                           |           |                |     2021     |
+|            3DPolygoneer           |                           |           |      :large_blue_circle: :green_circle: :yellow_circle: :orange_circle: :red_circle:          |     2021     |
 |            organizapet            |                           |           |                |      2021    |
 |            IntegraeBOT            |                           |           |                |     2021     |
 |            fat16reader            |                           |           |                |      2022    |
