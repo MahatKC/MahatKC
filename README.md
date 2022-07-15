@@ -15,27 +15,27 @@
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
 |             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  | :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:              |     2022     |
-|               MemARy              |            Augmented Reality class               |Unity, C#, Vuforia|       :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:         |    2020      |
-|     NLWTogetherFlutterProject     |                           |           |     :large_blue_circle: :black_circle: :black_circle: :black_circle: :black_circle:          |     2021     |
-|        MicroplasticCounting       |                           |           |     :large_blue_circle: :green_circle: :yellow_circle:  :black_circle: :black_circle:         |      2021    |
-|    SuperGeneticAlgorithmsWorld    |                           |           |                |      2021    |
-|       GalaxiesNeuralNetwork       |                           |           |                |      2021    |
-|       expertsystemassignment      |                           |           |                |     2021     |
-| Trabalho-IA---Algoritmos-de-Busca |                           |           |                |      2021    |
-|            3DPolygoneer           |                           |           |      :large_blue_circle: :green_circle: :yellow_circle: :orange_circle: :red_circle:          |     2021     |
-|            organizapet            |                           |           |                |      2021    |
-|            IntegraeBOT            |                           |           |                |     2021     |
-|            fat16reader            |                           |           |                |      2022    |
-|    HammingCodeWithDictionaries    |                           |           |                |     2020     |
-|            TLBSimulator           |                           |           |                |    2022      |
-|               Daniao              |                           |           |                |     2021     |
-|          playbookmegahack         |                           |           |                |    2020      |
-|    quadratic-sorting-algorithms   |                           |           |                |     2022     |
-|          mochila_binaria          |                           |           |                |    2022      |
-|                Hash               |                           |           |                |     2022     |
-|     SlowFastDeceptionDetection    |                           |           |                |    2022      |
-|        Protocolos-TCP-e-UDP       |                           |           |                |    2022      |
-|            oscarTracker           |                           |           |                |     2021     |
-|        CompiladohDuMineirin       |                           |           |                |    2022      |
-|            LeafCounter            |                           |           |                |   2020       |
-|             Project-F1            |                           |           |    :large_blue_circle: :large_blue_circle: :large_blue_circle: :black_circle: :black_circle:            |    2021      |
+|               [MemARy](https://github.com/MahatKC/MemARy)              |            Augmented Reality class               |Unity, C#, Vuforia|       :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:         |    2020      |
+|     [NLWTogetherFlutterProject](https://github.com/MahatKC/NLWTogetherFlutterProject)     |          Online bootcamp                 |           |     :large_blue_circle: :black_circle: :black_circle: :black_circle: :black_circle:          |     2021     |
+|        [MicroplasticCounting](https://github.com/MahatKC/MicroplasticCounting)       |     Research project                      |           |     :large_blue_circle: :green_circle: :yellow_circle:  :black_circle: :black_circle:         |      2021    |
+|    [SuperGeneticAlgorithmsWorld](https://github.com/MahatKC/SuperGeneticAlgorithmsWorld)    |      AI class                     |           |                |      2021    |
+|       [GalaxiesNeuralNetwork](https://github.com/MahatKC/GalaxiesNeuralNetwork)       |         AI class                  |           |                |      2021    |
+|       [expertsystemassignment](https://github.com/MahatKC/expertsystemassignment)      |       AI class                    |           |                |     2021     |
+| [Trabalho-IA---Algoritmos-de-Busca](https://github.com/MahatKC/Trabalho-IA---Algoritmos-de-Busca) |        AI class                   |           |                |      2021    |
+|            [3DPolygoneer](https://github.com/MahatKC/3DPolygoneer)           |         Computer Graphics class                  |           |      :large_blue_circle: :green_circle: :yellow_circle: :orange_circle: :red_circle:          |     2021     |
+|            [organizapet](https://github.com/MahatKC/organizapet)            |    Software Engineering class                       |           |                |      2021    |
+|            [IntegraeBOT](https://github.com/MahatKC/IntegraeBOT)            |   Manage an online event                        |   Python (Discord        |                |     2021     |
+|            [fat16reader](https://github.com/MahatKC/fat16reader)            |   Operating Systems class                        |  Python         |                |      2022    |
+|    [HammingCodeWithDictionaries](https://github.com/MahatKC/HammingCodeWithDictionaries)    |   Computer Organization and Architecture class                        |    Python       |                |     2020     |
+|            [TLBSimulator](https://github.com/MahatKC/TLBSimulator)           |   Operating Systems class                        |    Python (Pandas, Matplotlib)       |                |    2022      |
+|               [Daniao](https://github.com/MahatKC/Daniao)              |   Cryptography study group                        |    Python       |                |     2021     |
+|          [playbookmegahack](https://github.com/MahatKC/playbookmegahack)         |   Online hackathon                        |   Unity (C#)        |                |    2020      |
+|    [quadratic-sorting-algorithms](https://github.com/MahatKC/quadratic-sorting-algorithms)   |   Algorithm Analysis and Design class                        |  Python (Pandas, Matplotlib)         |                |     2022     |
+|          [mochila_binaria](https://github.com/MahatKC/mochila_binaria)          |   Algorithm Analysis and Design class                        |  Python (Pandas, Matplotlib)         |                |    2022      |
+|                [Hash](https://github.com/MahatKC/Hash)               |   Algorithm Analysis and Design class                        |   Python (Pandas)        |                |     2022     |
+|     [SlowFastDeceptionDetection](https://github.com/MahatKC/SlowFastDeceptionDetection)    |   Final Year Project                        |  Python (GluonCV, Pandas, TensorBoard)         |                |    2022      |
+|        Protocolos-TCP-e-UDP       |   Computer Networks class                        |    Python       |                |    2022      |
+|            oscarTracker           |                           |  Java-Android, SQLite        |                |     2021     |
+|        CompiladohDuMineirin       |   Compilers class                        |   Python (Pandas)        |                |    2022      |
+|            LeafCounter            |   Digital Image Processing class                        |  Python (OpenCV, NumPy)          |                |   2020       |
+|             Project-F1            |   Databases class                        |  PostgreSQL, Java         |    :large_blue_circle: :large_blue_circle: :large_blue_circle: :black_circle: :black_circle:            |    2021      |
