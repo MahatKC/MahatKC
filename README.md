@@ -14,7 +14,7 @@
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
-|             SuperMini             | Operational Systems class |   Python  |  :white_circle: :white_circle: :white_circle: :red_circle: :red_circle:              |     2022     |
+|             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  |  :white_circle: :white_circle: :white_circle: :red_circle: :red_circle:              |     2022     |
 |               MemARy              |                           |Unity, C#, Vuforia|                |    2020      |
 |     NLWTogetherFlutterProject     |                           |           |                |     2021     |
 |        MicroplasticCounting       |                           |           |                |      2021    |
