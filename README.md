@@ -4,6 +4,8 @@ I'm Mateus Karvat, Computer Scientist from Cascavel-PR in the south of Brazil. I
 
 I love learning new things and consider myself to be a [multipotentialite](https://puttylike.com/terminology/). For hobbies, I love gaming :video_game:, TV Shows (Huge Star Trek fan :vulcan_salute:) and Formula 1 :racing_car:.
 
+You can reach me on [LinkedIn](https://www.linkedin.com/in/mateus-karvat-camara/) or by email (mkarvat at gmail dot com).
+
 <!--
 **MahatKC/MahatKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
