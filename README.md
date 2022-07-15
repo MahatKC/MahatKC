@@ -30,9 +30,9 @@
 |            [TLBSimulator](https://github.com/MahatKC/TLBSimulator)           |   Operating Systems class                        |    Python (Pandas, Matplotlib)       |                |    2022      |
 |               [Daniao](https://github.com/MahatKC/Daniao)              |   Cryptography study group                        |    Python       |                |     2021     |
 |          [playbookmegahack](https://github.com/MahatKC/playbookmegahack)         |   Online hackathon                        |   Unity (C#)        |                |    2020      |
-|    [quadratic-sorting-algorithms](https://github.com/MahatKC/quadratic-sorting-algorithms)   |   Algorithm Analysis and Design class                        |  Python (Pandas, Matplotlib)         |                |     2022     |
-|          [mochila_binaria](https://github.com/MahatKC/mochila_binaria)          |   Algorithm Analysis and Design class                        |  Python (Pandas, Matplotlib)         |                |    2022      |
-|                [Hash](https://github.com/MahatKC/Hash)               |   Algorithm Analysis and Design class                        |   Python (Pandas)        |                |     2022     |
+|    [quadratic-sorting-algorithms](https://github.com/MahatKC/quadratic-sorting-algorithms)   |   Algorithm Analysis and Design                        |  Python (Pandas, Matplotlib)         |                |     2022     |
+|          [mochila_binaria](https://github.com/MahatKC/mochila_binaria)          |   Algorithm Analysis and Design                        |  Python (Pandas, Matplotlib)         |                |    2022      |
+|                [Hash](https://github.com/MahatKC/Hash)               |   Algorithm Analysis and Design                        |   Python (Pandas)        |                |     2022     |
 |     [SlowFastDeceptionDetection](https://github.com/MahatKC/SlowFastDeceptionDetection)    |   Final Year Project                        |  Python (GluonCV, Pandas, TensorBoard)         |                |    2022      |
 |        Protocolos-TCP-e-UDP       |   Computer Networks class                        |    Python       |                |    2022      |
 |            oscarTracker           |                           |  Java-Android, SQLite        |                |     2021     |
