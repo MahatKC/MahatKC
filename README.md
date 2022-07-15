@@ -10,7 +10,7 @@
 
 ---
 
-:mag: Here are some of the projects I've worked on during my BSc, sorted by their complexity (which considers scope, length and how tough they were at the time):
+:mag: Here are some of the projects I've worked on during my BSc, sorted by their complexity (considering scope, length and how tough each one was at the time):
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
