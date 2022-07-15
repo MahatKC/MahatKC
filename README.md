@@ -33,7 +33,7 @@
 |    [quadratic-sorting-algorithms](https://github.com/MahatKC/quadratic-sorting-algorithms)   |   Algorithm Analysis and Design                        |  Python (Pandas, Matplotlib)         |                |     2022     |
 |          [mochila_binaria](https://github.com/MahatKC/mochila_binaria)          |   Algorithm Analysis and Design                        |  Python (Pandas, Matplotlib)         |                |    2022      |
 |                [Hash](https://github.com/MahatKC/Hash)               |   Algorithm Analysis and Design                        |   Python (Pandas)        |                |     2022     |
-|     [SlowFastDeceptionDetection](https://github.com/MahatKC/SlowFastDeceptionDetection)    |   Final Year Project                        |  Python (GluonCV, Pandas, TensorBoard)         |                |    2022      |
+|     [SlowFastDeceptionDetection](https://github.com/MahatKC/SlowFastDeceptionDetection)    |   Final Year Project                        |  Python (GluonCV, Pandas, TensorBoard)         |   :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: &nbsp;            |    2022      |
 |        Protocolos-TCP-e-UDP       |   Computer Networks class                        |    Python       |                |    2022      |
 |            oscarTracker           |                           |  Java-Android, SQLite        |                |     2021     |
 |        CompiladohDuMineirin       |   Compilers class                        |   Python (Pandas)        |                |    2022      |
