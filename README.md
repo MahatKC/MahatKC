@@ -14,28 +14,28 @@
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
-|             SuperMini             | Operational Systems class |   Python  |                |          |
-|               MemARy              |                           |           |                |          |
-|     NLWTogetherFlutterProject     |                           |           |                |          |
-|        MicroplasticCounting       |                           |           |                |          |
-|    SuperGeneticAlgorithmsWorld    |                           |           |                |          |
-|       GalaxiesNeuralNetwork       |                           |           |                |          |
-|       expertsystemassignment      |                           |           |                |          |
-| Trabalho-IA---Algoritmos-de-Busca |                           |           |                |          |
-|            3DPolygoneer           |                           |           |                |          |
-|            organizapet            |                           |           |                |          |
-|            IntegraeBOT            |                           |           |                |          |
-|            fat16reader            |                           |           |                |          |
-|    HammingCodeWithDictionaries    |                           |           |                |          |
-|            TLBSimulator           |                           |           |                |          |
-|               Daniao              |                           |           |                |          |
-|          playbookmegahack         |                           |           |                |          |
-|    quadratic-sorting-algorithms   |                           |           |                |          |
-|          mochila_binaria          |                           |           |                |          |
-|                Hash               |                           |           |                |          |
-|     SlowFastDeceptionDetection    |                           |           |                |          |
-|        Protocolos-TCP-e-UDP       |                           |           |                |          |
-|            oscarTracker           |                           |           |                |          |
-|        CompiladohDuMineirin       |                           |           |                |          |
-|            LeafCounter            |                           |           |                |          |
-|             Project-F1            |                           |           |                |          |
+|             SuperMini             | Operational Systems class |   Python  |                |     2022     |
+|               MemARy              |                           |Unity, C#, Vuforia|                |    2020      |
+|     NLWTogetherFlutterProject     |                           |           |                |     2021     |
+|        MicroplasticCounting       |                           |           |                |      2021    |
+|    SuperGeneticAlgorithmsWorld    |                           |           |                |      2021    |
+|       GalaxiesNeuralNetwork       |                           |           |                |      2021    |
+|       expertsystemassignment      |                           |           |                |     2021     |
+| Trabalho-IA---Algoritmos-de-Busca |                           |           |                |      2021    |
+|            3DPolygoneer           |                           |           |                |     2021     |
+|            organizapet            |                           |           |                |      2021    |
+|            IntegraeBOT            |                           |           |                |     2021     |
+|            fat16reader            |                           |           |                |      2022    |
+|    HammingCodeWithDictionaries    |                           |           |                |     2020     |
+|            TLBSimulator           |                           |           |                |    2022      |
+|               Daniao              |                           |           |                |     2021     |
+|          playbookmegahack         |                           |           |                |    2020      |
+|    quadratic-sorting-algorithms   |                           |           |                |     2022     |
+|          mochila_binaria          |                           |           |                |    2022      |
+|                Hash               |                           |           |                |     2022     |
+|     SlowFastDeceptionDetection    |                           |           |                |    2022      |
+|        Protocolos-TCP-e-UDP       |                           |           |                |    2022      |
+|            oscarTracker           |                           |           |                |     2021     |
+|        CompiladohDuMineirin       |                           |           |                |    2022      |
+|            LeafCounter            |                           |           |                |   2020       |
+|             Project-F1            |                           |           |                |    2021      |
