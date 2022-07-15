@@ -14,14 +14,14 @@
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
-|             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  | :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle: &nbsp;              |     2022     |
+|             [SuperMini](https://github.com/MahatKC/SuperMini)             | Operational Systems class |   Python  | :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:               |     2022     |
 |               [MemARy](https://github.com/MahatKC/MemARy)              |            Augmented Reality class               |Unity, C#, Vuforia|       :large_blue_circle: :green_circle: :black_circle: :black_circle: :black_circle:         |    2020      |
 |     [NLWTogetherFlutterProject](https://github.com/MahatKC/NLWTogetherFlutterProject)     |          Online bootcamp                 |           |     :large_blue_circle: :black_circle: :black_circle: :black_circle: :black_circle:          |     2021     |
 |        [MicroplasticCounting](https://github.com/MahatKC/MicroplasticCounting)       |     Research project                      |           |     :large_blue_circle: :green_circle: :yellow_circle:  :black_circle: :black_circle:         |      2021    |
 |    [SuperGeneticAlgorithmsWorld](https://github.com/MahatKC/SuperGeneticAlgorithmsWorld)    |      AI class                     |           |                |      2021    |
 |       [GalaxiesNeuralNetwork](https://github.com/MahatKC/GalaxiesNeuralNetwork)       |         AI class                  |           |                |      2021    |
 |       [expertsystemassignment](https://github.com/MahatKC/expertsystemassignment)      |       AI class                    |           |                |     2021     |
-| [Trabalho-IA---Algoritmos-de-Busca](https://github.com/MahatKC/Trabalho-IA---Algoritmos-de-Busca) |        AI class                   |           |                |      2021    |
+| [Algoritmos-de-Busca](https://github.com/MahatKC/Trabalho-IA---Algoritmos-de-Busca) |        AI class                   |           |                |      2021    |
 |            [3DPolygoneer](https://github.com/MahatKC/3DPolygoneer)           |         Computer Graphics class                  |           |      :large_blue_circle: :green_circle: :yellow_circle: :orange_circle: :red_circle:          |     2021     |
 |            [organizapet](https://github.com/MahatKC/organizapet)            |    Software Engineering class                       |           |                |      2021    |
 |            [IntegraeBOT](https://github.com/MahatKC/IntegraeBOT)            |   Manage an online event                        |   Python (Discord        |                |     2021     |
