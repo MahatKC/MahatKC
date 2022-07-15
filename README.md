@@ -11,3 +11,31 @@
 ---
 
 :mag: Here are some of the projects I've worked on during my BSc:
+
+|            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
+|:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
+|             SuperMini             | Operational Systems class |   Python  |                |          |
+|               MemARy              |                           |           |                |          |
+|     NLWTogetherFlutterProject     |                           |           |                |          |
+|        MicroplasticCounting       |                           |           |                |          |
+|    SuperGeneticAlgorithmsWorld    |                           |           |                |          |
+|       GalaxiesNeuralNetwork       |                           |           |                |          |
+|       expertsystemassignment      |                           |           |                |          |
+| Trabalho-IA---Algoritmos-de-Busca |                           |           |                |          |
+|            3DPolygoneer           |                           |           |                |          |
+|            organizapet            |                           |           |                |          |
+|            IntegraeBOT            |                           |           |                |          |
+|            fat16reader            |                           |           |                |          |
+|    HammingCodeWithDictionaries    |                           |           |                |          |
+|            TLBSimulator           |                           |           |                |          |
+|               Daniao              |                           |           |                |          |
+|          playbookmegahack         |                           |           |                |          |
+|    quadratic-sorting-algorithms   |                           |           |                |          |
+|          mochila_binaria          |                           |           |                |          |
+|                Hash               |                           |           |                |          |
+|     SlowFastDeceptionDetection    |                           |           |                |          |
+|        Protocolos-TCP-e-UDP       |                           |           |                |          |
+|            oscarTracker           |                           |           |                |          |
+|        CompiladohDuMineirin       |                           |           |                |          |
+|            LeafCounter            |                           |           |                |          |
+|             Project-F1            |                           |           |                |          |
