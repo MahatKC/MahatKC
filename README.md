@@ -14,7 +14,7 @@
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
-|     [SlowFast Deception Detection](https://github.com/MahatKC/SlowFastDeceptionDetection)    |   BSc Dissertation                        |  Python (GluonCV, Pandas, TensorBoard)         |  :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:              |    2022      |
+|     [SlowFast Deception Detection](https://github.com/MahatKC/SlowFastDeceptionDetection)    |   BSc Thesis                        |  Python (GluonCV, Pandas, TensorBoard)         |  :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:              |    2022      |
 |            [3DPolygoneer](https://github.com/MahatKC/3DPolygoneer)           |         Computer Graphics class                  |   Python (NumPy)        |     :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:          |     2021     |
 |            [organizapet](https://github.com/MahatKC/organizapet)            |    Software Engineering class                       |  Flutter, Dart, Firestore         |  :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:  :black_circle:            |      2021    |
 |        [Compiladoh Du Mineirin](https://github.com/igorFNegrizoli/CompiladohDuMineirin)       |   Compilers class                        |   Python (Pandas)        |    :large_blue_circle: :large_blue_circle:  :large_blue_circle: :large_blue_circle: :black_circle:            |    2022      |
