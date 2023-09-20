@@ -6,7 +6,7 @@
 
 :cowboy_hat_face: I love learning new things and consider myself to be a [multipotentialite](https://puttylike.com/terminology/). For hobbies, I love gaming :video_game:, TV Shows (Huge Mr Robot :man_technologist: and Star Trek :vulcan_salute: fan), Formula 1 :racing_car: and Running :running_man:.
 
-:incoming_envelope: You can reach me on [LinkedIn](https://www.linkedin.com/in/mateus-karvat-camara/) or by email (mkarvat at gmail dot com).
+:incoming_envelope: You can reach me on [LinkedIn](https://www.linkedin.com/in/mateus-karvat-camara/) or by email (mateus dot karvat at queensu dot com).
 
 ---
 
