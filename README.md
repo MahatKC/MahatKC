@@ -4,7 +4,7 @@
 
 :microscope: During my BSc I have done undergraduate research in Quantum Computing and Deep Learning, as well as organizing outreach events with the [PETComp group](https://petsite-bd39a.web.app/). A few papers based on these projects have been [published in national and international journals and conferences](https://scholar.google.com.br/citations?user=0NHCSV4AAAAJ).
 
-:cowboy_hat_face: I love learning new things and consider myself to be a [multipotentialite](https://puttylike.com/terminology/). For hobbies, I love gaming :video_game:, TV Shows (Huge Mr Robot :man_technologist: and Star Trek :vulcan_salute: fan), Formula 1 :racing_car: and Running :running_man:.
+:cowboy_hat_face: I love learning new things and consider myself to be a [multipotentialite](https://puttylike.com/terminology/). For hobbies, I love gaming :video_game:, TV Shows (Huge Mr Robot :man_technologist: and Star Trek :vulcan_salute: fan), Formula 1 :racing_car:, Running :running_man: and have recently started Climbing :sunrise_over_mountains:.
 
 :incoming_envelope: You can reach me on [LinkedIn](https://www.linkedin.com/in/mateus-karvat-camara/) or by email (mateus dot karvat at queensu dot com).
 
