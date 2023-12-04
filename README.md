@@ -1,6 +1,6 @@
 ### Hello! :wave: Glad to have you here. Make yourself comfortable and grab some coffee! ☕
 
-:man_student: I'm Mateus Karvat, Computer Scientist from Cascavel-PR in the south of Brazil. I graduated from [UNIOESTE](https://www.unioeste.br/portal/) in 2022 and I'm currently doing my Masters in Computing at Queen's University.
+:man_student: I'm Mateus Karvat, Computer Scientist from Cascavel-PR in the south of Brazil. I graduated from [UNIOESTE](https://www.unioeste.br/portal/) in 2022 and I'm currently doing my Masters in [Computing at Queen's University - Canada](https://www.cs.queensu.ca/).
 
 :microscope: During my BSc I have done undergraduate research in Quantum Computing and Deep Learning, as well as organizing outreach events with the [PETComp group](https://petsite-bd39a.web.app/). A few papers based on these projects have been [published in national and international journals and conferences](https://scholar.google.com.br/citations?user=0NHCSV4AAAAJ).
 
