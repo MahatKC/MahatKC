@@ -1,4 +1,4 @@
-### Hello! :wave: Glad to have you here. Make yourself comfortable and grab some coffee! :coffee:
+### Hello! :wave: Glad to have you here. Make yourself comfortable and grab some coffee! ☕
 
 :man_student: I'm Mateus Karvat, Computer Scientist from Cascavel-PR in the south of Brazil. I graduated from [UNIOESTE](https://www.unioeste.br/portal/) in 2022 and I'm currently doing my Masters in Computing at Queen's University.
 
@@ -11,8 +11,7 @@
 
 ---
 
-
-:mag: Here are some of the projects I've worked on during my MSc:
+🔍 Here are some of the projects I've worked on during my MSc:
 
 |            **Project**            |      **Created for**      | **Stack** |  **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------:|
@@ -24,7 +23,7 @@
 ---
 
 
-:mag_right: Here are some of the projects I've worked on during my BSc, sorted by their complexity (considering scope, length and how tough each one was at the time):
+🔎 Here are some of the projects I've worked on during my BSc, sorted by their complexity (considering scope, length and how tough each one was at the time):
 
 |            **Project**            |      **Created for**      | **Stack** | **Complexity** | **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------------:|:--------:|
