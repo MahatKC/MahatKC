@@ -8,7 +8,9 @@
 
 :incoming_envelope: You can reach me on [LinkedIn](https://www.linkedin.com/in/mateus-karvat-camara/) or by email (mateus dot karvat at queensu dot com).
 
+
 ---
+
 
 :mag: Here are some of the projects I've worked on during my MSc:
 
@@ -18,7 +20,9 @@
 |    [Gait Pattern Generation for Humanoid Robots using Reinforcement Learning](https://github.com/MahatKC/RLGaitPatternGeneration)   |   Reinforcement Learning course    |  Python (Stable Baselines, Gymansium)         |    2023      |
 |    [Increasing ParC-Net’s Performance with Half-blocks](https://github.com/MahatKC/ParC-Net-HalfBlocks)   |   Deep Learning course    |  Python (PyTorch)         |    2023      |
 
+
 ---
+
 
 :mag_right: Here are some of the projects I've worked on during my BSc, sorted by their complexity (considering scope, length and how tough each one was at the time):
 
