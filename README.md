@@ -15,7 +15,7 @@
 
 |            **Project**            |      **Created for**      | **Stack** |  **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------:|
-|    [Adver-City](https://github.com/QUARRG/Adver-City)  | MSc thesis | CARLA, Python (PyTorch, OpenCDA) | 2024 |
+|    ⭐ [Adver-City](https://github.com/QUARRG/Adver-City) ⭐ | MSc thesis | CARLA, Python (PyTorch, OpenCDA) | 2024 |
 |    [Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot’s Six Degrees of Freedom](https://github.com/MahatKC/6DOP)   |   Automated Planning course    |  PDDL+         |    2023      |
 |    [Gait Pattern Generation for Humanoid Robots using Reinforcement Learning](https://github.com/MahatKC/RLGaitPatternGeneration)   |   Reinforcement Learning course    |  Python (Stable Baselines, Gymansium)         |    2023      |
 |    [Increasing ParC-Net’s Performance with Half-blocks](https://github.com/MahatKC/ParC-Net-HalfBlocks)   |   Deep Learning course    |  Python (PyTorch)         |    2023      |
