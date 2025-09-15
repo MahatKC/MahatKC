@@ -1,8 +1,8 @@
 ### Hello! :wave: Glad to have you here. Make yourself comfortable and grab some coffee! ☕
 
-:man_student: I'm Mateus Karvat, Computer Scientist from Cascavel-PR in the south of Brazil. I graduated from [UNIOESTE](https://www.unioeste.br/portal/) in 2022 and I'm currently doing my Masters in [Computing at Queen's University - Canada](https://www.cs.queensu.ca/).
+:man_student: I'm Mateus Karvat, Computer Scientist born in Cascavel-PR in the south of Brazil. I graduated in Computer Science at [UNIOESTE](https://www.unioeste.br/portal/) in 2022, then did my Masters in [Computing at Queen's University - Canada](https://www.cs.queensu.ca/), and I'm currently doing my PhD in Computing at Queen's.
 
-:microscope: During my BSc I have done undergraduate research in Quantum Computing and Deep Learning, as well as organizing outreach events with the [PETComp group](https://petsite-bd39a.web.app/). A few papers based on these projects have been [published in national and international journals and conferences](https://scholar.google.com.br/citations?user=0NHCSV4AAAAJ). For my MSc, I have been working on Computer Vision for Autonomous Vehicles 🚗.
+:microscope: During my BSc I have done undergraduate research in Quantum Computing and Deep Learning, as well as organizing outreach events with the [PETComp group](https://petsite-bd39a.web.app/). A few papers based on these projects have been [published in national and international journals and conferences](https://scholar.google.com.br/citations?user=0NHCSV4AAAAJ). For my MSc, I worked on Collaborative Perception for Autonomous Vehicles 🚗, having created Adver-City, the first open source Collaborative Perception dataset focused on adverse weather condtions 🌧️.
 
 :cowboy_hat_face: I love learning new things and consider myself to be a [multipotentialite](https://puttylike.com/terminology/). For hobbies, I love gaming :video_game:, TV Shows (Huge Mr Robot :man_technologist: and Star Trek :vulcan_salute: fan), Formula 1 :racing_car:, and Running :running_man:.
 
@@ -15,6 +15,7 @@
 
 |            **Project**            |      **Created for**      | **Stack** |  **Year** |
 |:---------------------------------:|:-------------------------:|:---------:|:--------:|
+|    [Adver-City](https://github.com/QUARRG/Adver-City)  | MSc thesis | CARLA, Python (PyTorch, OpenCDA) | 2024 |
 |    [Six Degrees of Planning: Automated Planning for Surgical Navigation Under MyCobot’s Six Degrees of Freedom](https://github.com/MahatKC/6DOP)   |   Automated Planning course    |  PDDL+         |    2023      |
 |    [Gait Pattern Generation for Humanoid Robots using Reinforcement Learning](https://github.com/MahatKC/RLGaitPatternGeneration)   |   Reinforcement Learning course    |  Python (Stable Baselines, Gymansium)         |    2023      |
 |    [Increasing ParC-Net’s Performance with Half-blocks](https://github.com/MahatKC/ParC-Net-HalfBlocks)   |   Deep Learning course    |  Python (PyTorch)         |    2023      |
